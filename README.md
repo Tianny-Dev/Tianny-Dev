@@ -61,9 +61,10 @@ Check out my repositories to see what I'm working on — feedback is always welc
 
 Feel free to reach out or follow my progress:
 
-- 🐦 [@Laineeeeny](https://twitter.com/Laineeeeny)  
-- 📧 acdeocera.dev@gmail.com
-- 📘 Facebook [Ahllaine Christian De Ocera](https://www.facebook.com/ahllaine.christian.de.ocera.2025/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Laineeeeny)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](acdeocera.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/laineeeeny)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahllaine.christian.de.ocera.2025)
 
 ---
 
