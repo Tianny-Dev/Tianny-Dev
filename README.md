@@ -41,7 +41,7 @@ I'm an aspiring full-stack developer currently diving into the world of **Larave
 
 ## 📂 Projects I've Deployed
 
-- [**Philippine Real Estate Portal**](https://http://philippinerealestateportal.com/)  
+- [**Philippine Real Estate Portal**](https://philippinerealestateportal.com/)  
   A full-featured real estate web app built using **PHP**.  
   Real estate agents can post properties, while buyers can browse listings, search by filters, and inquire directly. Designed to streamline the property buying and selling process in the Philippines.
 
