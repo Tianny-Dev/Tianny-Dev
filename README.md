@@ -1,4 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahllaine
+
+I'm an aspiring full-stack developer currently diving into the world of **Laravel** (PHP) and **Vue.js** (JavaScript). I enjoy building web applications, learning new tech, and growing my skills one project at a time.
+
+---
+
+## 🛠️ Tech I'm Learning
+
+- ⚙️ Backend: Laravel, PHP, MySQL
+- 🎨 Frontend: Vue.js, HTML, CSS, JavaScript
+- 🧰 Tools: Git, GitHub, VS Code, Postman
+
+---
+
+## 📌 Current Focus
+
+- Learning API development with Laravel
+- Building small full-stack projects to practice Vue + Laravel integration
+- Exploring best practices in clean code and RESTful design
+
+---
+
+## 📂 Projects
+
+Check out my repositories to see what I'm working on — feedback is always welcome!
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out or follow my progress:
+
+- 🐦 @Laineeeeny
+- 📧 acdeocera.dev@gmail.com
+
+---
+
+Thanks for stopping by! 🚀
+
 
 <!--
 **Tianny-Dev/Tianny-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
