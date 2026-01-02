@@ -30,9 +30,9 @@ I'm an aspiring full-stack developer currently diving into the world of **Larave
 ## 🛠️ Skills & Concepts
 
 - **Programming Paradigms:** Object-Oriented Programming (OOP), MVC Architecture, RESTful API design  
-- **Backend:** Laravel, PHP, Node.js, API development, Authentication (JWT, Laravel Sanctum)  
+- **Backend:** Laravel, PHP, Node.js, Java, Spring Boot, API development
 - **Frontend:** Vue.js, JavaScript, HTML5, CSS3, Tailwind CSS, Responsive Design  
-- **Databases:** MySQL, MongoDB, Firebase  
+- **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools & Workflow:** Git, GitHub, VS Code, Postman, Netlify  
 - **Design:** UI/UX principles, Figma, Component-based architecture  
 - **Soft Skills:** Problem-solving, teamwork, continuous learning, adaptability  
