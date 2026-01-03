@@ -7,7 +7,7 @@ I'm an aspiring full-stack developer currently diving into the world of **Larave
 ## 🛠️ Tech I'm Learning
 
 - ⚙️ Backend: Laravel, PHP, Java, Spring Boot, MySQL
-- 🎨 Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, Vue.js, Java
+- 🎨 Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, Vue.js
 - 🧰 Tools: Git, GitHub, VS Code, Postman
 
 ---
