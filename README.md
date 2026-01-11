@@ -12,18 +12,7 @@ I'm an aspiring full-stack developer currently diving into the world of **Larave
 
 ---
 
-## 📌 Current Focus
 
-- Working professionally as a web developer while continuously sharpening my skills  
-- Building and maintaining full-stack applications with Laravel and Vue.js  
-- Applying strong OOP and MVC principles to write clean, maintainable code  
-- Deepening my understanding of advanced backend concepts and API development  
-- Improving frontend design with attention to responsive UI/UX and component architecture  
-- Exploring best practices in clean code, RESTful APIs, and software design patterns  
-- Managing databases like MySQL and integrating Firebase for real-world data needs  
-- Deploying and maintaining projects to test and apply new knowledge  
-- Strengthening collaboration and version control workflows using Git and GitHub  
-- Staying curious, open to feedback, and committed to continuous learning  
 
 ---
 
