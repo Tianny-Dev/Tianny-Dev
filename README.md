@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahllaine
 
-I'm an aspiring full-stack developer currently diving into the world of **Laravel** (PHP) and **Vue.js** (JavaScript). I enjoy building web applications, learning new tech, and growing my skills one project at a time.
+I'm an aspiring full-stack developer currently diving into the world of **Laravel** (PHP), **Livewire** (PHP) and **Vue.js** (JavaScript). I enjoy building web applications, learning new tech, and growing my skills one project at a time.
 
 ---
 
