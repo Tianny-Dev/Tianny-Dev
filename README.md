@@ -51,7 +51,9 @@ I'm an aspiring full-stack developer currently diving into the world of **Larave
 
 ---
 
+## 📂 Projects
 
+Check out my repositories to see what I'm working on — feedback is always welcome!
 
 ---
 
