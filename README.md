@@ -4,11 +4,7 @@ I'm an aspiring full-stack developer currently diving into the world of **Larave
 
 ---
 
-## 🛠️ Tech I'm Using
 
-- ⚙️ Backend: Laravel, PHP, Java, Spring Boot, MySQL, PostgreSQL
-- 🎨 Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, Vue.js, Angular
-- 🧰 Tools: Git, GitHub, VS Code, Postman
 
 ---
 
