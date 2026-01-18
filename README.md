@@ -68,7 +68,7 @@ Feel free to reach out or follow my progress:
 
 ---
 
-Thanks for stopping by! 🚀
+
 
 <!--
 **Tianny-Dev/Tianny-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
