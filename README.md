@@ -68,11 +68,6 @@ Feel free to reach out or follow my progress:
 
 ---
 
-## 📈 GitHub Stats
-
-![Ahllaine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianny-Dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianny-Dev&layout=compact&theme=tokyonight)
-
 Thanks for stopping by! 🚀
 
 <!--
