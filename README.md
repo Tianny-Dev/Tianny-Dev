@@ -31,6 +31,13 @@ I’m a passionate developer with professional experience in building, deploying
 - Tailwind CSS, Bootstrap
 - Responsive UI / UX principles
 
+### 🧰 Tools & Workflow
+- Git, GitHub
+- VS Code
+- Postman
+- Netlify
+- Figma (basic UI/UX)
+
 ---
 
 ## 🏆 Highlights
