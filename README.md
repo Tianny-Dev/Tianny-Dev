@@ -16,11 +16,14 @@ I’m a passionate developer with professional experience in building, deploying
 
 ---
 
-## 🛠️ Tech I'm Using
+## 🛠️ Tech Stack
 
-- ⚙️ Backend: Laravel, PHP, Java, Spring Boot, MySQL, PostgreSQL
-- 🎨 Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, Vue.js, Angular
-- 🧰 Tools: Git, GitHub, VS Code, Postman
+### ⚙️ Backend
+- PHP, Laravel, Livewire
+- Java, Spring Boot
+- RESTful API Development
+- MySQL, PostgreSQL, MongoDB
+- Firebase (Realtime DB & Auth)
 
 ---
 
