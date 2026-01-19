@@ -76,15 +76,7 @@ I’m a passionate developer with professional experience in building, deploying
 
 ---
 
-## 📂 Projects I've Deployed
 
-- [**Philippine Real Estate Portal**](https://philippinerealestateportal.com/)  
-  A full-featured real estate web app built using **PHP**.  
-  Real estate agents can post properties, while buyers can browse listings, search by filters, and inquire directly. Designed to streamline the property buying and selling process in the Philippines.
-
-- [**MIGS INC**](https://migsinc.com)  
-  A web application built for a bootcamp focused on graphic design and web development.  
-  Developed using **Laravel's MVC structure** with **Inertia.js** and **React**, this project manages participant registration, content access, and user interactions in a modern, single-page application setup.
 
 ---
 
