@@ -6,6 +6,16 @@ I’m a passionate developer with professional experience in building, deploying
 
 ---
 
+## 🚀 What I Do
+
+- Build full-stack web applications using **Laravel (MVC)** and **Vue.js**
+- Develop RESTful APIs and integrate third-party services
+- Design responsive and user-friendly interfaces
+- Apply **OOP**, **clean code**, and **best practices**
+- Maintain and deploy production systems
+
+---
+
 ## 🛠️ Tech I'm Using
 
 - ⚙️ Backend: Laravel, PHP, Java, Spring Boot, MySQL, PostgreSQL
