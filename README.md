@@ -91,20 +91,7 @@ A full-featured real estate web application built using **PHP**.
 
 ---
 
-### 🎓 MIGS INC  
-🔗 https://migsinc.com
 
-A web application developed for a bootcamp focused on graphic design and web development.
-
-**Tech Used:**
-- Laravel (MVC)
-- Inertia.js
-- React
-
-**Features:**
-- Participant registration
-- Content and user management
-- Modern single-page application experience
 
 ---
 
