@@ -114,12 +114,7 @@ Check out my repositories to see what I'm working on — feedback is always welc
 
 ---
 
-## 🤝 Open To
 
-- Full-Stack Developer opportunities
-- Laravel / Vue.js roles
-- Freelance or contract projects
-- Open-source collaboration
 
 ---
 
