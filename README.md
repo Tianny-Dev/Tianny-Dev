@@ -123,7 +123,14 @@ Check out my repositories to see what I'm working on — feedback is always welc
 
 ---
 
+## 📫 Let's Connect
 
+Feel free to reach out or follow my progress:
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Laineeeeny)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:acdeocera.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/laineeeeny)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ahllaine.christian.de.ocera.2025)
 
 ---
 
