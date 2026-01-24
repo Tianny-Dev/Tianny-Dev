@@ -25,11 +25,7 @@ I’m a passionate developer with professional experience in building, deploying
 - MySQL, PostgreSQL, MongoDB
 - Firebase (Realtime DB & Auth)
 
-### 🎨 Frontend
-- HTML5, CSS3, JavaScript
-- Vue.js, React
-- Tailwind CSS, Bootstrap
-- Responsive UI / UX principles
+
 
 ### 🧰 Tools & Workflow
 - Git, GitHub
