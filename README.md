@@ -40,12 +40,7 @@ I’m a passionate developer with professional experience in building, deploying
 
 ---
 
-## 🏆 Highlights
 
-- Built and deployed production web applications
-- Worked professionally as a web developer
-- Experience with real clients and live systems
-- Hands-on deployment and maintenance experience
 
 ---
 
