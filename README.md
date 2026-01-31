@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahllaine
 
-💡 **Full-Stack Web Developer** specializing in building scalable, user-focused web applications using **Laravel**, **React**, and **Vue.js**.
+
 
 I’m a passionate developer with professional experience in building, deploying, and maintaining real-world web applications. I enjoy writing clean, maintainable code, learning new technologies, and continuously improving my craft.
 
