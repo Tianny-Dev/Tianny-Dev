@@ -117,6 +117,8 @@ Check out my repositories to see what I'm working on — feedback is always welc
 ---
 ## 👨‍💻 Java & Spring Boot in Progress
 
+Learning **Java** and **Spring Boot** by building stuff and breaking it (then fixing it 😅).
+
 ## 🤝 Open To
 
 - Full-Stack Developer opportunities
