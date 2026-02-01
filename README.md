@@ -118,12 +118,11 @@ Check out my repositories to see what I'm working on — feedback is always welc
 
 Learning **Java** and **Spring Boot** by building stuff and breaking it (then fixing it 😅).
 
-Current Learning:
-- Java fundamentals
-- Spring Boot REST APIs
+🎯 **Currently focused on:**
+- Java & Object-Oriented Programming
+- Spring Boot & RESTful APIs
 - JPA / Hibernate
-- Database integration
-- Small projects & experiments
+- MySQL & backend architecture
 
 ---
 
