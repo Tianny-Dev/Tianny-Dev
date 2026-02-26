@@ -2,7 +2,9 @@
 
 💡 **Full-Stack Web Developer** specializing in building scalable, user-focused web applications using **Laravel**, **Spring Boot**,  **React**, and **Vue.js**.
 
-I’m a passionate developer with professional experience in building, deploying, and maintaining real-world web applications. I enjoy writing clean, maintainable code, learning new technologies, and continuously improving my craft.
+I build systems — not just features.
+
+With hands-on experience in real-world deployments, I focus on writing clean, maintainable code and designing backend architectures that scale. I care about performance, structure, and long-term maintainability.
 
 ---
 
