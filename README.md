@@ -55,6 +55,7 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
 ### 🚀 Deployment & DevOps
 - VPS & shared hosting deployments
 - Environment configuration management
@@ -62,6 +63,14 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 - Git branching workflows
 - Basic CI/CD exposure
 - Production debugging & maintenance
+
+---
+
+### 🧪 Testing & Quality
+- API testing with Postman
+- Writing testable service-layer logic
+- Basic unit testing (Spring Boot & Laravel)
+- Clean code & refactoring practices
 
 ---
 
