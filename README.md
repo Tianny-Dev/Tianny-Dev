@@ -57,7 +57,12 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 ---
 
 ### 🚀 Deployment & DevOps
-
+- VPS & shared hosting deployments
+- Environment configuration management
+- Database migrations
+- Git branching workflows
+- Basic CI/CD exposure
+- Production debugging & maintenance
 
 ---
 
