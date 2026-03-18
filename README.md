@@ -71,6 +71,10 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 - Basic CI/CD exposure
 - Production debugging & maintenance
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ---
 
 ### 🧪 Testing & Quality
