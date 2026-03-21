@@ -164,6 +164,10 @@ A modern messaging application built for real-time communication.
 - State & UI: Axios, Zustand, shadcn/ui
 
 **Features:**
+- Real-time messaging
+- Scalable backend architecture
+- Fast and responsive user interface
+- Efficient state management
 
 ---
 
