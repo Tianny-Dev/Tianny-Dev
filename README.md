@@ -124,7 +124,7 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 ## 📂 Deployed Projects
 
 ### 🏠 Philippine Real Estate Portal  
-🔗 https://philippinerealestateportal.com/
+🔗 https://philippinerealestateportal.com
 
 A full-featured real estate web application built using **PHP**.
 
@@ -154,6 +154,7 @@ A web application developed for a bootcamp focused on graphic design and web dev
 ---
 
 ### 💬 Chatkoto
+🔗 https://chatkoto.com
 
 ---
 
