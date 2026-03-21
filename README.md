@@ -163,6 +163,8 @@ A modern messaging application built for real-time communication.
 - Frontend: Next.js
 - State & UI: Axios, Zustand, shadcn/ui
 
+**Features:**
+
 ---
 
 ## 📂 Projects
