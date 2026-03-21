@@ -156,6 +156,8 @@ A web application developed for a bootcamp focused on graphic design and web dev
 ### 💬 Chatkoto
 🔗 https://chatkoto.com
 
+A modern messaging application built for real-time communication.
+
 ---
 
 ## 📂 Projects
