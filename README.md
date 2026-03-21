@@ -158,6 +158,8 @@ A web application developed for a bootcamp focused on graphic design and web dev
 
 A modern messaging application built for real-time communication.
 
+**Tech Used:**
+
 ---
 
 ## 📂 Projects
