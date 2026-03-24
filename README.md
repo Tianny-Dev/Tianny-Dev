@@ -209,16 +209,7 @@ Feel free to reach out or follow my progress:
 
 ---
 
-## 💡 Developer Philosophy
-> “Hindi ko alam paano ko gagawin, pero magagawa ko.”
-> 
-> *“I may not know exactly how I’ll do it — but I know I can get it done.”*
 
-I believe every complex problem can be broken down, understood,
-and solved through persistence, structured thinking, and continuous learning.
-
-I don’t get intimidated by unfamiliar systems — I study them,
-break them apart, and build solutions that work.
 
 ---
 
