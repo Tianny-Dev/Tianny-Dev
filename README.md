@@ -153,6 +153,25 @@ A web application developed for a bootcamp focused on graphic design and web dev
 
 ---
 
+### 💬 Chatkoto
+🔗 https://chatkoto.com
+
+A modern messaging application built for real-time communication.
+
+**Tech Used:**
+- Backend: Fastify, PostgreSQL, Redis, Drizzle ORM
+- Frontend: Next.js
+- State & UI: Axios, Zustand, shadcn/ui
+
+**Features:**
+- Real-time messaging
+- Scalable backend architecture
+- Fast and responsive user interface
+- Efficient state management
+
+---
+
+
 ## 📂 Projects
 
 Check out my repositories to see what I'm working on — feedback is always welcome!
