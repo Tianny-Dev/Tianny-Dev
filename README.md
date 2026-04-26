@@ -124,15 +124,7 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 ## 📂 Deployed Projects
 
 ### 🏠 Philippine Real Estate Portal  
-🔗 https://philippinerealestateportal.com
 
-A full-featured real estate web application built using **PHP**.
-
-**Features:**
-- Property listing and management for agents
-- Advanced search and filtering
-- Buyer inquiries and contact system
-- Designed for real-world use in the Philippine market
 
 ---
 
