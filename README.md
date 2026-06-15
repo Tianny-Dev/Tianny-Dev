@@ -111,13 +111,6 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 
 ## 🛠️ Skills & Concepts
 
-- **Programming Paradigms:** Object-Oriented Programming (OOP), MVC Architecture, RESTful API design  
-- **Backend:** Laravel, PHP, Node.js, Java, Spring Boot, API development
-- **Frontend:** Vue.js, JavaScript, HTML5, CSS3, Tailwind CSS, Angular
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Tools & Workflow:** Git, GitHub, VS Code, Postman, Netlify
-- **Design:** UI/UX principles, Figma, Component-based architecture  
-- **Soft Skills:** Problem-solving, teamwork, continuous learning, adaptability 
 
 ---
 
