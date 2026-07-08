@@ -1,4 +1,20 @@
+# 👋 Hi, I'm Ahllaine
 
+💡 **Full-Stack Web Developer** specializing in building scalable, user-focused web applications using **Laravel**, **Spring Boot**,  **React**, and **Vue.js**.
+
+I build systems — not just features.
+
+With hands-on experience in real-world deployments, I focus on writing clean, maintainable code and designing backend architectures that scale. I care about performance, structure, and long-term maintainability.
+
+---
+
+## 🚀 What I Do
+
+- Build full-stack web applications using **Laravel (MVC)** and **Vue.js**
+- Develop RESTful APIs and integrate third-party services
+- Design responsive and user-friendly interfaces
+- Apply **OOP**, **clean code**, and **best practices**
+- Maintain and deploy production systems
 
 ---
 
