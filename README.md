@@ -222,7 +222,7 @@ break them apart, and build solutions that work.
 
 ---
 
-Thanks for stopping by! 🚀
+
 
 <!--
 **Tianny-Dev/Tianny-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
