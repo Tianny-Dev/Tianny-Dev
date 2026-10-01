@@ -159,9 +159,9 @@ A web application developed for a bootcamp focused on graphic design and web dev
 A modern messaging application built for real-time communication.
 
 **Tech Used:**
-- Backend: Fastify, PostgreSQL, Redis, Drizzle ORM
-- Frontend: Next.js, React Native, Expo
-- State & UI: Axios, Zustand, shadcn/ui
+- Backend: Laravel, PostgreSQL, Redis, Docker
+- Frontend: React Native, Expo
+- State & UI: Axios, Zustand
 
 **Features:**
 - Real-time messaging
