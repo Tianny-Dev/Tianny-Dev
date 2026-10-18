@@ -160,7 +160,7 @@ A modern messaging application built for real-time communication.
 
 **Tech Used:**
 - Backend: NestJS, PostgreSQL, Redis, Docker
-- Frontend: React Native, Expo
+- Frontend: React Native, Expo, NextJS
 - State & UI: Axios, Zustand
 
 **Features:**
