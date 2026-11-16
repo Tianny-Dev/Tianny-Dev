@@ -187,7 +187,7 @@ Learning **Java** and **Spring Boot** by building stuff and breaking it (then fi
 - Java & Object-Oriented Programming
 - Spring Boot & RESTful APIs
 - JPA / Hibernate
-- MySQL & backend architecture
+- MySQL, PostgreSQL & backend architecture
 
 ---
 
