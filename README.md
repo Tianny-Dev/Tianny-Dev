@@ -194,7 +194,7 @@ Learning **Java** and **Spring Boot** by building stuff and breaking it (then fi
 ## 🤝 Open To
 
 - Full-Stack Developer opportunities
-- Laravel / Vue.js / React / React Native roles
+- Laravel / Vue.js / React / React Native, NestJS roles
 - Freelance or contract projects
 - Open-source collaboration
 
