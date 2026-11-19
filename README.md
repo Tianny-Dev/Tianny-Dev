@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahllaine
 
-💡 **Full-Stack Web Developer** specializing in building scalable, user-focused web applications using **Laravel**, **Spring Boot**,  **React**, and **Vue.js**.
+💡 **Full-Stack Web Developer** specializing in building scalable, user-focused web applications using **Laravel**, **Spring Boot**, **NestJS**,  **React**, and **Vue.js**.
 
 I build systems — not just features.
 
