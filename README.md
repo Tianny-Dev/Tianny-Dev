@@ -184,6 +184,7 @@ Check out my repositories to see what I'm working on — feedback is always welc
 Learning **Java** and **Spring Boot** by building stuff and breaking it (then fixing it 😅).
 
 🎯 **Currently focused on:**
+- Professional work: Building and maintaining full-stack applications with Laravel and Vue.js
 - Java & Object-Oriented Programming
 - Spring Boot & RESTful APIs
 - JPA / Hibernate
