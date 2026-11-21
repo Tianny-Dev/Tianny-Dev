@@ -185,9 +185,9 @@ Learning **Java** and **Spring Boot** by building stuff and breaking it (then fi
 
 🎯 **Currently focused on:**
 - Professional work: Building and maintaining full-stack applications with Laravel and Vue.js
+- Backend depth: Advanced API design, Java, Spring Boot, JPA/Hibernate, and backend architecture
 - Java & Object-Oriented Programming
 - Spring Boot & RESTful APIs
-- JPA / Hibernate
 - MySQL, PostgreSQL & backend architecture
 
 ---
