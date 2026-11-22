@@ -147,6 +147,7 @@ A web application developed for a bootcamp focused on graphic design and web dev
 - Laravel (MVC)
 - Inertia.js
 - React
+- MySQL
 
 **Features:**
 - Participant registration
