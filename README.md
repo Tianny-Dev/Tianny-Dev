@@ -130,6 +130,10 @@ With hands-on experience in real-world deployments, I focus on writing clean, ma
 
 A full-featured real estate web application built using **PHP**.
 
+**Tech Used:**
+- PHP
+- MySQL
+
 **Features:**
 - Property listing and management for agents
 - Advanced search and filtering
